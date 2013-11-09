@@ -54,7 +54,7 @@ def entityLister(filename):
 
   filename = filename[filename.rindex("/"):]
   pickleLocation = "pickle/" + filename + ".pickle"
-  print "Pickling into", filename
+  print "Pickling into", pickleLocation
   with open(pickleLocation, "wb") as f:
     dump(keyDict, f)
 
@@ -114,4 +114,7 @@ def loadPickle(pickleLocation):
     return load(f)
 
 if __name__ == '__main__':
+  entityLister('data/tst1/key-tst1.v7')
   entityLister('data/tst2/key-tst2.v4')
+  entityLister('data/tst3/key-tst3.v2')
+  entityLister('data/tst4/key-tst4.v2')

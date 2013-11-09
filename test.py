@@ -1,6 +1,10 @@
+#!/usr/bin/python
+
 import requests
+import dateutil.parser as dup
 import simplejson as sj
 from auth import authenticate
+from datetime import datetime as dt
 
 
 # Set up your API key here. Make an auth.py file with a function 
