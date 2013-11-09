@@ -7,6 +7,7 @@ import dateutil.parser as dup
 from auth import authenticate
 from pprint import pprint
 from datetime import datetime as dt
+from util import *
 
 
 # Set up your API key here. Make an auth.py file with a function 
@@ -16,7 +17,6 @@ api_key = authenticate()
 
 # Requests URL
 interpret_url = "http://napi.maluuba.com/v0/interpret"
-normalize_url = "http://napi.maluuba.com/v0/normalize"
 
 def main():
   '''
@@ -30,8 +30,8 @@ def main():
 		4b. synchronize format of response to compare to entities in answer key.
 		4c. calculate precision/recall
   '''
-  #masterDict = getAllInputFiles()
-  #keyDict = getAllKeyFiles()
+  masterDict = getAllInputFiles()
+  keyDict = getAllKeyFiles()
 
 if __name__ == "__main__":
   main()

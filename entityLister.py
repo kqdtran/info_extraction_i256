@@ -44,7 +44,7 @@ def entityLister(filename):
 
         # Start of a new document
         entities = {}
-        notUsedKey, docID = extractLine(line, kSI, vSI)
+        notUsedKey, docID = extractLine(line, kSI, vSI, False)
         keyDict[docID] = entities
         print "Processing document", docID
         lastDocID = docID
@@ -83,17 +83,22 @@ def detectStartIndex(line):
       break
   return keyStartIndex, valueStartIndex
 
-def extractLine(line, keyStartIndex, valueStartIndex):
+def extractLine(line, keyStartIndex, valueStartIndex, stripped=True):
   '''
   Extracts a line and returns a tuple of 
   (entity's name, entity's value) using the given index
 
   Also does some preprocessing by stripping out all punctuation
   '''
-  key = ' '.join(line[keyStartIndex:valueStartIndex].
-    translate(mkTrans, punc).strip().split())
-  value = ' '.join(line[valueStartIndex:].
-    translate(mkTrans, punc).strip().split())
+  if stripped:
+    key = ' '.join(line[keyStartIndex:valueStartIndex].
+      translate(mkTrans, punc).strip().split())
+    value = ' '.join(line[valueStartIndex:].
+      translate(mkTrans, punc).strip().split())
+  else:
+    key = ' '.join(line[keyStartIndex:valueStartIndex].
+      translate(mkTrans, punc).strip().split())
+    value = ' '.join(line[valueStartIndex:].strip().split())
   return key, value
 
 def coerceToInt(char):
