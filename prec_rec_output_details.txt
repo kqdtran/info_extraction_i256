@@ -1,0 +1,1622 @@
+
+Article ID: TST3-MUC4-0004
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['bogota', 'asuba'])
+
+Article ID: TST4-MUC4-0099
+Answer Key Locations: set(['chile'])
+Maluuba API Results: set(['santiago', '21'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0098
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['zacamillo', 'neighborhood'])
+
+Article ID: TST4-MUC4-0052
+Answer Key Locations: set(['chile'])
+Maluuba API Results: set(['mir', 'latest'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0091
+Answer Key Locations: set(['town', 'beach', 'tongoy', 'chile'])
+Maluuba API Results: set(['operation', 'patrol'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0090
+Answer Key Locations: set(['el', 'neighborhood', 'san', 'salvador', 'city', 'santa', 'rafael', 'ana'])
+Maluuba API Results: set(['19', 'santa', 'san', 'salvador', 'ana'])
+Intersection: set(['salvador', 'san', 'santa', 'ana'])
+
+Article ID: TST4-MUC4-0093
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['addition', 'm-19'])
+
+Article ID: TST4-MUC4-0092
+Answer Key Locations: set(['town', 'el', 'san', 'salvador', 'la', 'villanueva', 'jose', 'department', 'libertad'])
+Maluuba API Results: set(['town', 'streets', 'rebels'])
+Intersection: set(['town'])
+
+Article ID: TST4-MUC4-0095
+Answer Key Locations: set(['el', 'city', 'santa', 'salvador', 'ana'])
+Maluuba found different locations: set(['town', 'streets', 'rebels'])
+
+Article ID: TST4-MUC4-0094
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(["garcia's"])
+
+Article ID: TST4-MUC4-0097
+Answer Key Locations: set(['real', 'town', 'colombia', 'antioquia', 'region', 'fe', 'santa', 'department', 'paseo'])
+Maluuba API Results: set(['real', '25', 'television', '(inravision', 'bogota', '[text]', 'cadena', '--', '88', 'fe', 'santa', '1)', 'dec', 'paseo'])
+Intersection: set(['real', 'fe', 'santa', 'paseo'])
+
+Article ID: TST4-MUC4-0096
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['cocaine', 'sao', '22', 'janeiro', '[text]', 'de', 'paulo', 'rio', '(brazil)'])
+
+Article ID: TST2-MUC4-0057
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['cocaine', 'sao', '22', 'janeiro', '[text]', 'de', 'paulo', 'rio', '(brazil)'])
+
+Article ID: TST2-MUC4-0056
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(['hospital'])
+Intersection: set([])
+
+Article ID: TST2-MUC4-0055
+Answer Key Locations: set(['city', 'lima', 'peru'])
+Maluuba API Results: set(['lima', '5'])
+Intersection: set(['lima'])
+
+Article ID: TST2-MUC4-0054
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(["government's"])
+Intersection: set([])
+
+Article ID: TST2-MUC4-0053
+Answer Key Locations: set(['department', 'norte', 'de', 'colombia', 'santander'])
+Maluuba API Results: set(['15', 'caracas', 'colombia', '(venezuela)'])
+Intersection: set(['colombia'])
+
+Article ID: TST2-MUC4-0052
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['colombia'])
+
+Article ID: TST2-MUC4-0051
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['colombia'])
+
+Article ID: TST2-MUC4-0050
+Answer Key Locations: set(['city', 'guatemala'])
+Maluuba API Results: set(['city', 'guatemala', '22'])
+Intersection: set(['city', 'guatemala'])
+
+Article ID: TST2-MUC4-0059
+Answer Key Locations: set(['bogota', 'city', 'suburb', 'colombia', 'quirigua'])
+Maluuba API Results: set(['and', '25', 'caribbean', 'cartagena', 'bogota', 'of', 'two', 'dead', 'three', 'injured', 'port', 'left'])
+Intersection: set(['bogota'])
+
+Article ID: TST2-MUC4-0058
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['galvez', 'villa', 'gobernador'])
+
+Article ID: TST3-MUC4-0069
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(['el', 'vietnam', 'salvador'])
+Intersection: set(['el', 'salvador'])
+
+Article ID: TST3-MUC4-0068
+Answer Key Locations: set(['el', 'neighborhood', 'san', 'salvador', 'city', 'escalon'])
+Maluuba API Results: set(['san', 'salvador'])
+Intersection: set(['san', 'salvador'])
+
+Article ID: TST4-MUC4-0028
+Answer Key Locations: set(['chile'])
+Maluuba API Results: set(['region', 'metropolitan'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0029
+Answer Key Locations: set(['city', 'lima', 'peru'])
+Maluuba API Results: set(['university'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0024
+Answer Key Locations: set(['city', 'arica', 'chile'])
+Maluuba API Results: set(["pdc's", 'sotomayor', 'street', '683'])
+Intersection: set([])
+
+Article ID: TST3-MUC4-0062
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['way'])
+
+Article ID: TST4-MUC4-0026
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['bogota', '2', 'colombia'])
+
+Article ID: TST4-MUC4-0027
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['1987', 'march', 'leon'])
+
+Article ID: TST4-MUC4-0020
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0021
+Answer Key Locations: set(['city', 'colombia', 'bucaramanga'])
+Maluuba API Results: set(['florencia', 'installations', 'azul', 'airport', 'uraba', 'barranquilla', 'military', 'cerro'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0022
+Answer Key Locations: set(['town', 'clemente', 'san', 'peru'])
+Maluuba API Results: set(['clemente', 'san', 'district', '23', 'pisco', 'km', '9'])
+Intersection: set(['clemente', 'san'])
+
+Article ID: TST4-MUC4-0023
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['not', 'fdp', 'fall', 'should'])
+
+Article ID: TST4-MUC4-0055
+Answer Key Locations: set(['city', 'lima', 'peru'])
+Maluuba API Results: set(['avelino', 'andres', 'park', 'alan', 'garcia', 'president', 'caceres', 'where'])
+Intersection: set([])
+
+Article ID: TST4-MUC4-0054
+Answer Key Locations: set(['city', 'antioquia', 'bolivar', 'ciudad', 'colombia', 'department'])
+Maluuba API Results: set(['department', 'morelia', 'caqueta'])
+Intersection: set(['department'])
+
+Article ID: TST3-MUC4-0032
+Answer Key Locations: set(['colombia'])
+Maluuba API Results: set(['training', 'paramilitary', 'groups', '23', 'bogota', 'right-wing', 'colombia'])
+Intersection: set(['colombia'])
+
+Article ID: TST1-MUC3-0002
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['training', 'paramilitary', 'groups', '23', 'bogota', 'right-wing', 'colombia'])
+
+Article ID: TST1-MUC3-0003
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['el', 'supreme', 'court', 'san', 'salvador', 'apr', '[text]', '--', '89', '4', 'of', 'justice', '(acan-efe)', "salvador's"])
+
+Article ID: TST4-MUC4-0056
+Answer Key Locations: set(['town', 'el', 'venezuela', 'amparo', 'city'])
+Maluuba API Results: set(['amparo', 'el', 'venezuela', 'autopsies'])
+Intersection: set(['el', 'venezuela', 'amparo'])
+
+Article ID: TST1-MUC3-0006
+Answer Key Locations: set(['city', 'america', 'neighborhood', 'medellin', 'colombia'])
+Maluuba API Results: set(['bogota', 'medellin'])
+Intersection: set(['medellin'])
+
+Article ID: TST1-MUC3-0007
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['several', 'victims'])
+
+Article ID: TST1-MUC3-0004
+Answer Key Locations: set(['department', 'antioquia', 'colombia'])
+Maluuba API Results: set(['bogota', 'liqueur', '30', 'plant', 'antioquia'])
+Intersection: set(['antioquia'])
+
+Article ID: TST1-MUC3-0005
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0051
+Answer Key Locations: set(['city', 'pisco', 'peru'])
+Maluuba API Results: set(['0400', 'prefect', 'deputy', 'soto', 'pisco', 'approximately', 'individuals', 'stabbed', 'sedice', 'carlos'])
+Intersection: set(['pisco'])
+
+Article ID: TST1-MUC3-0008
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['our', 'country'])
+
+Article ID: TST1-MUC3-0009
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['terrorists', 'national', '[farabundo', 'front]', 'general', 'marti', 'liberation', 'fmln'])
+
+Article ID: TST4-MUC4-0050
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['berlin', 'referendum', 'chile'])
+
+Article ID: TST4-MUC4-0053
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['julio', 'cesar', 'trujillo'])
+
+Article ID: TST3-MUC4-0018
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(["salvador's", 'san', 'salvador'])
+Intersection: set(['salvador'])
+
+Article ID: TST3-MUC4-0019
+Answer Key Locations: set(['cano', 'city', 'norte', 'de', 'municipality', 'covenas', 'limon', 'colombia', 'santander', 'department', 'urum'])
+Maluuba found different locations: set(["salvador's", 'san', 'salvador'])
+
+Article ID: TST3-MUC4-0016
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['el'])
+
+Article ID: TST3-MUC4-0017
+Answer Key Locations: set(['el', 'machiliguas', 'neighborhood', 'salvador'])
+Maluuba API Results: set(['home', "merino's", 'francisco', 'president-elect', 'vice'])
+Intersection: set([])
+
+Article ID: TST3-MUC4-0014
+Answer Key Locations: set(['department', 'ayacucho', 'province', 'peru'])
+Maluuba API Results: set(['san', '19', 'juan', 'municipality', 'ayacucho', 'bautista'])
+Intersection: set(['ayacucho'])
+
+Article ID: TST3-MUC4-0015
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(['department', 'morazan'])
+Intersection: set([])
+
+Article ID: TST3-MUC4-0012
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['ponce'])
+
+Article ID: TST3-MUC4-0013
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(['cold', 'blood'])
+Intersection: set([])
+
+Article ID: TST3-MUC4-0010
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba API Results: set(['el', 'san', 'salvador'])
+Intersection: set(['el', 'salvador'])
+
+Article ID: TST3-MUC4-0011
+Answer Key Locations: set(['colombia'])
+Maluuba API Results: set(['manuel', 'perez', 'priest', 'spanish'])
+Intersection: set([])
+
+Article ID: TST2-MUC4-0084
+Answer Key Locations: set([])
+Maluuba found 'irrelevant' locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0085
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0086
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0087
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0080
+Answer Key Locations: set(['el', 'san', 'salvador', 'city', 'university', 'national'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0081
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0082
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0083
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0088
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0089
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0041
+Answer Key Locations: set(['municipality', 'colombia', 'suba'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0040
+Answer Key Locations: set(['bogota', 'city', 'neighborhood', 'colombia', 'teusaquillo'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0006
+Answer Key Locations: set(['town', 'el', 'salvador', 'quetzaltepeque'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0044
+Answer Key Locations: set(['city', 'argentina', 'aires', 'buenos'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0047
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0046
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0094
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0095
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0019
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0018
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0013
+Answer Key Locations: set(['province', 'river', 'sucumbios', 'ecuador', 'bermeja'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0012
+Answer Key Locations: set(['city', 'santiago', 'chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0011
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0010
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0017
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0016
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0015
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0014
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0098
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0099
+Answer Key Locations: set(['el', 'ana', 'salvador', 'canton', 'santa', 'department', 'natividad'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0100
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0068
+Answer Key Locations: set(['city', 'la', 'community', 'providencia', 'guatemala', 'base', 'coban', 'military'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0069
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0066
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0067
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0064
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0065
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0062
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0063
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0060
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0061
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0052
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0053
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0050
+Answer Key Locations: set(['hernandez', 'el', 'salvador', 'town', 'cabanas', 'canton', 'los', 'department', 'matasano'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0051
+Answer Key Locations: set(['cauca', 'valle', 'department', 'del', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0056
+Answer Key Locations: set(['el', 'neighborhood', 'san', 'mejicanos', 'city', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0057
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0054
+Answer Key Locations: set(['el', 'city', 'salvador', 'usulutan'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0055
+Answer Key Locations: set(['el', 'neighborhood', 'zacamil', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0058
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0059
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0079
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0078
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0059
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0058
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0055
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0054
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0057
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0056
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0051
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0050
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0053
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0052
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0022
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0023
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0020
+Answer Key Locations: set(['city', 'el', 'bogota', 'airport', 'dorado', 'colombia', 'international'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0021
+Answer Key Locations: set(['el', 'neighborhood', 'san', 'salvador', 'city', 'cuscatancingo'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0026
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0027
+Answer Key Locations: set(['el', 'jurisdiction', 'salvador', 'city', 'chalatenango', 'county', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0024
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0025
+Answer Key Locations: set(['department', 'el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0028
+Answer Key Locations: set(['el', 'central', 'salvador', 'national', 'american', 'university'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0029
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0088
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0089
+Answer Key Locations: set(['town', 'el', 'francisco', 'neighborhood', 'san', 'salvador', 'triunfo', 'miguel', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0082
+Answer Key Locations: set(['el', 'salvador', 'city', 'jurisdiction', 'perquin', 'morazan', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0083
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0080
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0081
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0086
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0087
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0084
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0085
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0096
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0097
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0039
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0038
+Answer Key Locations: set(['honduras'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0092
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0093
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0090
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0091
+Answer Key Locations: set(['city', 'santiago', 'chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0033
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0032
+Answer Key Locations: set(['city', 'neighborhood', 'cordoba', 'alta', 'argentina', 'barrio'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0031
+Answer Key Locations: set(['alto', 'san', 'area', 'de', 'colombia', 'pablo'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0030
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0037
+Answer Key Locations: set(['galera', 'el', 'quemada', 'salvador', 'jurisdiction', 'canton', 'ilobasco'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0036
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0035
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0034
+Answer Key Locations: set(['city', 'neighborhood', 'san', 'peru', 'borja', 'lima'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0011
+Answer Key Locations: set(['states', 'city', 'united', 'washington', 'dc'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0010
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0013
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0012
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0015
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0014
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0017
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0016
+Answer Key Locations: set(['el', 'neighborhood', 'zacamil', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0019
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0018
+Answer Key Locations: set(['city', 'guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0009
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0008
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0048
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0049
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0046
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0047
+Answer Key Locations: set(['nicaragua'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0007
+Answer Key Locations: set(['tegucigalpa', 'honduras', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0045
+Answer Key Locations: set(['town', 'juntas', 'antioquia', 'de', 'colombia', 'department', 'uramita'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0042
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0043
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0003
+Answer Key Locations: set(['city', 'neighborhood', 'san', 'isidro', 'peru', 'lima'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0041
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0093
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0005
+Answer Key Locations: set(['city', 'guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0091
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0090
+Answer Key Locations: set(['el', 'honduras', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0097
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0096
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0095
+Answer Key Locations: set(['guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0094
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0099
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0098
+Answer Key Locations: set(['guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0044
+Answer Key Locations: set(['chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0006
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0040
+Answer Key Locations: set(['el', 'apopa', 'neighborhood', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0002
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0077
+Answer Key Locations: set(['town', 'pichu', 'machu', 'cusco', 'peru', 'department', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0076
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0075
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0074
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0073
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0072
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0071
+Answer Key Locations: set(['town', 'cano', 'colorada', 'colombia', 'department', 'arauca'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0029
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0070
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0092
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0063
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0079
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0078
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0025
+Answer Key Locations: set(['town', 'el', 'francisco', 'san', 'salvador', 'la', 'paz', 'chinameca', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0075
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0074
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0077
+Answer Key Locations: set(['peru'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0076
+Answer Key Locations: set(['department', 'city', 'monteria', 'colombia', 'cordoba'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0071
+Answer Key Locations: set(['department', 'el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0070
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0073
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0072
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0060
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0067
+Answer Key Locations: set(['el', 'neighborhood', 'san', 'salvador', 'city', 'zacamil'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0066
+Answer Key Locations: set(['el', 'american', 'central', 'university', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0065
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0064
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0002
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0003
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0043
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0042
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0045
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0007
+Answer Key Locations: set(['city', 'guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0004
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0005
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0049
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0048
+Answer Key Locations: set(['department', 'guatemala', 'huehuetenango'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0008
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0009
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0068
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0069
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0060
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0061
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0062
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0063
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0064
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0065
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0066
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0067
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0100
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0031
+Answer Key Locations: set(['city', 'honduras', 'llanitos', 'los', 'department', 'intibuca'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0030
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0033
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0032
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0035
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0034
+Answer Key Locations: set(['guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0037
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0036
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0039
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0038
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0099
+Answer Key Locations: set(['city', 'lima', 'peru'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0098
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0091
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0090
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0093
+Answer Key Locations: set(['department', 'el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0092
+Answer Key Locations: set(['el', 'miguel', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0095
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0094
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0097
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0096
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0085
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0084
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0087
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0086
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0081
+Answer Key Locations: set(['panama'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0080
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0083
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0082
+Answer Key Locations: set(['municipality', 'soacha', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0089
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0088
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0028
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0029
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0024
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0025
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0026
+Answer Key Locations: set(['city', 'region', 'uraba', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0027
+Answer Key Locations: set(['city', 'peru', 'yunguyo'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0020
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0021
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0022
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0023
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0038
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0039
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0059
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0058
+Answer Key Locations: set(['ayacucho', 'peru', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0030
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0031
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0057
+Answer Key Locations: set(['el', 'salvador', 'canton', 'county', 'morazan', 'yamabal', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0033
+Answer Key Locations: set(['el', 'salvador', 'chalatenango', 'department', 'concepcion', 'city', 'nueva'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0034
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0035
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0036
+Answer Key Locations: set(['town', 'jose', 'san', 'antioquia', 'cordoba', 'negro', 'rio', 'airport', 'colombia', 'nicolas', 'department', 'valley', 'maria'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0037
+Answer Key Locations: set(['sector', 'city', 'aranjuez', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0100
+Answer Key Locations: set(['department', 'el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0088
+Answer Key Locations: set(['city', 'paz', 'bolivia', 'la'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0089
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0082
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0083
+Answer Key Locations: set(['city', 'region', 'official', 'copiapo', 'chile', 'atacama'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0080
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0081
+Answer Key Locations: set(['el', 'jurisdiction', 'soyapango', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0086
+Answer Key Locations: set(['town', 'el', 'san', 'salvador', 'vicente', 'clara', 'santa', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0087
+Answer Key Locations: set(['town', 'sipi', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0084
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0085
+Answer Key Locations: set(['department', 'aquira', 'town', 'apurimac', 'peru'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0068
+Answer Key Locations: set(['town', 'city', 'doradal', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0069
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0048
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0049
+Answer Key Locations: set(['city', 'lima', 'peru'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0040
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0041
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0042
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0043
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0044
+Answer Key Locations: set(['cutufi', 'apure', 'venezuela', 'state', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0045
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0046
+Answer Key Locations: set(['town', 'casquito', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0047
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0020
+Answer Key Locations: set(['department', 'paz', 'bolivia', 'la'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0100
+Answer Key Locations: set(['town', 'barranca', 'peru'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0078
+Answer Key Locations: set(['brazil'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0079
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0074
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0075
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0076
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0077
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0070
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0071
+Answer Key Locations: set(['el', 'neighborhood', 'san', 'salvador', 'benito'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0072
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0073
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0011
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0010
+Answer Key Locations: set(['rancagua', 'city', 'chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0013
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0012
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0015
+Answer Key Locations: set(['town', 'el', 'cordoba', 'tomate', 'canaletes', 'municipality', 'colombia', 'department'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0014
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0017
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0016
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0019
+Answer Key Locations: set(['city', 'lima', 'peru'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0018
+Answer Key Locations: set(['bolivia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0028
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0077
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0076
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0075
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0074
+Answer Key Locations: set(['city', 'medellin', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0073
+Answer Key Locations: set(['city', 'temuco', 'chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0072
+Answer Key Locations: set(['city', 'talca', 'copiapo', 'chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0071
+Answer Key Locations: set(['city', 'paz', 'bolivia', 'la'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0070
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0079
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0078
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0008
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0009
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0004
+Answer Key Locations: set(['city', 'paz', 'bolivia', 'la'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0005
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0006
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST2-MUC4-0007
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0002
+Answer Key Locations: set(['city', 'santiago', 'neighborhood', 'chile', 'providencia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST2-MUC4-0003
+Answer Key Locations: set(['el', 'university', 'masferrer', 'alberto', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0039
+Answer Key Locations: set(['chile'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0038
+Answer Key Locations: set(['town', 'honduras', 'cifuentes'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0033
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0032
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0031
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0030
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0037
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0036
+Answer Key Locations: set(['city', 'ceiba', 'honduras', 'la'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0035
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0034
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0027
+Answer Key Locations: set(['city', 'guatemala'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0026
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0025
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0024
+Answer Key Locations: set(['city', 'arauquita', 'cano', 'jurisdiction', 'covenas', 'colombia', 'limon'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0023
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0022
+Answer Key Locations: set(['huancayo', 'city', 'district', 'peru', 'mulqui'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST3-MUC4-0021
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST3-MUC4-0061
+Answer Key Locations: set(['el', 'san', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0060
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0061
+Answer Key Locations: set(['el', 'apopa', 'neighborhood', 'salvador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0062
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0063
+Answer Key Locations: set(['el', 'dulce', 'salvador', 'city', 'de', 'nombre', 'maria'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0064
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0065
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST4-MUC4-0066
+Answer Key Locations: set(['city', 'villavicencio', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST4-MUC4-0067
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0048
+Answer Key Locations: set(['province', 'tulcan', 'carchi', 'ecuador', 'city'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0049
+Answer Key Locations: set(['colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0046
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0047
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0044
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0045
+Answer Key Locations: set(['el', 'salvador'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0042
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0043
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+
+Article ID: TST1-MUC3-0040
+Answer Key Locations: set(['bogota', 'city', 'colombia'])
+Maluuba found different locations: set(['states', 'panama', 'united'])
+
+Article ID: TST1-MUC3-0041
+Answer Key Locations: set([])
+Maluuba found no location entities in this article
+relret: 19
+rel: 205
+ret: 34
+Precision: 0.558823529412
+Recall: 0.0926829268293

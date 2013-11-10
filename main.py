@@ -4,16 +4,19 @@ import os
 import requests
 import simplejson as sj
 import dateutil.parser as dup
-from auth import authenticate
+#from auth import authenticate 		>>what pip install do I need to run to get this?
 from pprint import pprint
 from datetime import datetime as dt
-from util import *
+#from util import *					>>depends on line 7
+from cPickle import load,dump
+from preRec import calcPrecRec
 
+cwd = os.getcwd()
 
 # Set up your API key here. Make an auth.py file with a function 
 # authenticate() that returns the API key. Don't check auth.py 
 # into git :(
-api_key = authenticate()
+#api_key = authenticate()
 
 # Requests URL
 interpret_url = "http://napi.maluuba.com/v0/interpret"
@@ -30,16 +33,26 @@ def main():
 		b. synchronize format of response to compare to entities in answer key.
 		c. calculate precision/recall
   '''
-  masterDict = getAllInputFiles()
-  keyDict = getAllKeyFiles()
-  maluubaDict = {}
+  pMD = open(cwd+'/pickle/allInputFiles.pickle','r')
+  pKD = open(cwd+ '/pickle/allKeysDict.pickle','r')
+  masterDict = load(pMD)
+  keyDict = load(pKD)
+  pMD.close()
+  pKD.close()
+  pMLD = open(cwd+'/pickle/maluubaKeysDict.pickle')
+  maluubaKeysDict = load(pMLD)
+  pMLD.close()
+
+  '''maluubaDict = {}
   for docID in masterDict:
     print "Processing", docID
     sents = masterDict[docID]
     entities = getMaluubaDict(sents)
     maluubaDict[docID] = entities
     print "Finish", docID, "\n"
-  pickleStuff(maluubaDict, "maluubaKeysDict")
+  pickleStuff(maluubaDict, "maluubaKeysDict")'''
+
+  calcPrecRec(keyDict,maluubaKeysDict)
 
 if __name__ == "__main__":
   main()
