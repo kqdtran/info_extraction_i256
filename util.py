@@ -1,5 +1,6 @@
 import os
 import requests
+import simplejson as sj
 from cPickle import dump, load
 from auth import authenticate
 
@@ -36,11 +37,11 @@ def getAllKeyFiles():
           allKeyDict.update(keyDict)
   return allKeyDict
 
-def pickleStuff(stuff):
+def pickleStuff(stuff, name):
   '''
   Pickles keys dictionary for later use
   '''
-  with open("pickle/allKeysDict.pickle", "wb") as f:
+  with open("pickle/" + name + ".pickle", "wb") as f:
     dump(stuff, f)
 
 def loadPickle(location):
@@ -73,8 +74,11 @@ def interpret(sentence="I love Natural Language Processing"):
   '''
   params = {"phrase": sentence, "apikey": api_key}
   req = requests.get(interpret_url, params=params)
-  return sj.loads(req.content)['entities']
+  if req.status_code == 200:
+    return sj.loads(req.content)['entities']
+  else:
+    return dict()
 
 if __name__ == "__main__":
   allKeyDict = getAllKeyFiles()
-  pickleStuff(allKeyDict)
+  pickleStuff(allKeyDict, "allKeyDict")
