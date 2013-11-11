@@ -4,10 +4,10 @@ import os
 import requests
 import simplejson as sj
 import dateutil.parser as dup
-#from auth import authenticate 		>>what pip install do I need to run to get this?
+#from auth import authenticate 		#>>what pip install do I need to run to get this?
 from pprint import pprint
 from datetime import datetime as dt
-#from util import *					>>depends on line 7
+#from util import *					#>>depends on line 7
 from cPickle import load,dump
 from preRec import calcPrecRec
 
@@ -35,12 +35,14 @@ def main():
   '''
   pMD = open(cwd+'/pickle/allInputFiles.pickle','r')
   pKD = open(cwd+ '/pickle/allKeysDict.pickle','r')
+  pMLD = open(cwd+'/pickle/maluubaKeysDict.pickle')
+
   masterDict = load(pMD)
   keyDict = load(pKD)
+  maluubaKeysDict = load(pMLD)
+
   pMD.close()
   pKD.close()
-  pMLD = open(cwd+'/pickle/maluubaKeysDict.pickle')
-  maluubaKeysDict = load(pMLD)
   pMLD.close()
 
   '''maluubaDict = {}
