@@ -1,4 +1,3 @@
-
 Article ID: TST3-MUC4-0004
 Answer Key Locations: set([])
 Maluuba found 'irrelevant' locations: set(['bogota', 'asuba'])
