@@ -2,7 +2,12 @@
 
 from __future__ import division
 
-def calcPrecRec(keyDict,maluDict):
+def calcPrecRec(keyDict, maluDict):
+	'''
+	Calculates the precision and recall based on the key Dictionary 
+	in the corpus and the Maluuba dict, which is converted from the 
+	JSON result after sending a request using the Maluuba API
+	'''
 	articles = maluDict.keys()
 	rel = 0
 	ret = 0
@@ -42,14 +47,4 @@ def calcPrecRec(keyDict,maluDict):
 	re = relret/rel
 	print('Precision: '+str(pr))
 	print('Recall: '+str(re))
-	return(pr,re)
-
-
-
-
-
-#Pr = rel + ret / ret
-
-
-
-
+	return (pr,re)
