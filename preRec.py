@@ -13,36 +13,30 @@ def calcPrecRec(keyDict, maluDict):
 	ret = 0
 	relret = 0
 	for a in articles:
-		#print('')
-		#print('Article ID: '+a)
 		maluEnts = maluDict[a]
 		keyEnts = keyDict[a]
 		keyLoc = set(keyEnts['INCIDENT LOCATION'].lower().split())
-		#print('Answer Key Locations: '+str(keyLoc))
 		try:
+			#Check whether Maluuba found any locations
 			maluLoc = set(maluEnts['location'][0].split())
-			#Maluuba found something! But did the key?
+			#Now check whether key has locations
 			if len(keyLoc) > 0:
-				#print('Maluuba API Results: '+str(maluLoc))
 				inter = maluLoc.intersection(keyLoc)
-				#print('Intersection: '+str(inter))
+				#Check for intersection
 				if len(inter) > 0:
 					relret += 1
 				else:
+					#No intersection, add to retrieved entity count
 					ret += 1
 			else:
 				ret += 1
-				#print("Maluuba found 'irrelevant' locations: "+str(maluLoc))
+				#Maluuba found locations not in key, add to entity count 
 		except KeyError:
 			if len(keyLoc) > 0:
 				rel += 1
-				#print('Maluuba found different locations: '+str(maluLoc))
+				#Maluuba didn't find locations it should have, add to relevant entity count
 			else:
 				pass
-				#print('Maluuba found no location entities in this article')
-	#print('relret: '+str(relret))
-	#print('rel: '+str(rel))
-	#print('ret: '+str(ret))
 	pr = relret/ret
 	re = relret/rel
 	print('Precision: '+str(pr))

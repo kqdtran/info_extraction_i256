@@ -5,7 +5,18 @@ Information Extraction using the Maluuba API
 
 **Option 2**: Explore the Maluuba API and determine how it works on a collection
 
-**Corpus**: *describe what and where did we find the corpus*
+**Corpus**: We found the data while scouring the internet for labeled entity
+recognition datasets that we could access free of charge. We found the MUC 3 and
+MUC 4 datasets available on the Technion's (Israel) website:
+
+http://www.itl.nist.gov/iaui/894.02/related_projects/muc/muc_data/muc_data_index.html
+
+The corpus contains the raw text of many news articles from the early 90s along with
+keys to each article, which contain entities against which we could test the Maluuba
+API. The keys suggest that the purpose of the data was to automatically detect violent
+incidents from foreign countries (most likely as a means for the US government to 
+monitor terrorist or guerilla activities abroad). This goal complicated matters for the
+purposes of our project, as we will describe below.
 
 **Repository Location**: https://github.com/kqdtran/info_extraction_i256
 
